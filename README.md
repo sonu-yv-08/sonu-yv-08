@@ -1,21 +1,17 @@
-# Hi there, I'm Sonu Kumar 
+### Hi, I'm Sonu Kumar
 
-### CSE Undergraduate @ SRM University-AP | Full-Stack Web & Android Developer
+First-year CSE undergraduate at SRM University-AP. I enjoy building full-stack web apps and Android projects that solve everyday campus problems.
 
-##  About Me
-Passionate computer science undergraduate dedicated to building practical, impactful campus technology solutions and modern web applications. Focused on backend systems, full-stack architecture, and mobile development.
+#### Tech Stack
+- **Languages:** JavaScript, Kotlin, HTML/CSS, C
+- **Frameworks & Backend:** Node.js, Express.js, React
+- **Tools:** Git, Linux, VS Code, Android Studio
 
-## 🛠️ Tech Stack & Tools
-- **Languages**: JavaScript (ES6+), Kotlin, HTML5, CSS3
-- **Backend & Frameworks**: Node.js, Express.js, React
-- **Tools & Environments**: Git, GitHub, Linux, REST APIs
+#### Projects
+- **[CampusConnect](https://github.com/sonu-yv-08/CampusConnect)** — Full-stack web platform to help university students connect based on shared skills, interests, and academic goals (Node.js, Express, JS).
+- **Hostel Delivery** *(in progress)* — Floor-level delivery management app for university hostels built with Express and React.
 
-##  Featured Projects
-- **CampusConnect**: Full-stack web platform connecting university students by shared skills, interests, and academic goals. Built with Node.js, Express, JavaScript, HTML5, and CSS3.
-- **Hostel Delivery**: Smart campus delivery management platform streamlining logistics and package tracking for students and staff.
-
-##  Connect with Me
-- **Email**: sonukumar748436@gmail.com
-- **GitHub**: [github.com/sonu-yv-08](https://github.com/sonu-yv-08)
-- **LinkedIn**: https://www.linkedin.com/in/sonu-kumar-84b1303b4
-- **Instagram**: https://www.instagram.com/sonu.yv_08?dlrf=NGhjOHhzcWtmdnM3
+#### Links
+- Email: [sonukumar748436@gmail.com](mailto:sonukumar748436@gmail.com)
+- LinkedIn: [sonu-kumar-84b1303b4](https://www.linkedin.com/in/sonu-kumar-84b1303b4)
+- Instagram: [@sonu.yv_08](https://www.instagram.com/sonu.yv_08)
