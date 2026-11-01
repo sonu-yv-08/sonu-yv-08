@@ -12,6 +12,7 @@ First-year Computer Science & Engineering (CSE) undergraduate at SRM University-
 - **Hostel Delivery** *(in progress)* - Floor-level delivery management app for university hostels built with Express and React.
 
 #### Links
+- Resume: [View Resume PDF](./Sonu_Kumar_Resume.pdf)
 - Email: [sonukumar748436@gmail.com](mailto:sonukumar748436@gmail.com)
 - LinkedIn: [sonuyv08](https://www.linkedin.com/in/sonuyv08)
 - Instagram: [@sonu.yv_08](https://www.instagram.com/sonu.yv_08)
