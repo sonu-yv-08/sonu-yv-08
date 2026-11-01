@@ -17,5 +17,5 @@ Passionate computer science undergraduate dedicated to building practical, impac
 ## 📫 Connect with Me
 - **Email**: sonukumar748436@gmail.com
 - **GitHub**: [github.com/sonu-yv-08](https://github.com/sonu-yv-08)
-- **LinkedIn**: [LinkedIn](https://linkedin.com)
-- **Instagram**: [Instagram](https://instagram.com)
+- **LinkedIn**: https://www.linkedin.com/in/sonu-kumar-84b1303b4
+- **Instagram**: https://www.instagram.com/sonu.yv_08?dlrf=NGhjOHhzcWtmdnM3
